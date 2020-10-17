@@ -12,3 +12,4 @@
 ---
 ![Gantttable](Gantttable.jpg "甘特表")
 ![Ganttchart](Ganttchart.jpg "甘特圖")
+![CPM](CPM.jpg "CPM")
