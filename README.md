@@ -15,5 +15,4 @@
 |:--------:|
 ![Ganttchart](Ganttchart.jpg "甘特圖")
 |CPM圖|
-|:------:|
 ![CPM](CPM.jpg "CPM")
