@@ -11,5 +11,9 @@
 > ### 美　　編：陳職凱 吳柏志
 ---
 ![Gantttable](Gantttable.jpg "甘特表")
+|甘特圖|
+|:--------:|
 ![Ganttchart](Ganttchart.jpg "甘特圖")
+|CPM圖|
+|:------:|
 ![CPM](CPM.jpg "CPM")
