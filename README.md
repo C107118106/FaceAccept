@@ -9,6 +9,6 @@
 ## 工作分配：
 > ### 程式撰寫：簡偉丞 沈育弘 洪嘉聰
 > ### 美　　編：陳職凱 吳柏志
-
+---
 ![Gantttable](Gantttable.jpg "甘特表")
 ![Ganttchart](Ganttchart.jpg "甘特圖")
