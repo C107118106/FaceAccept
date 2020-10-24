@@ -25,6 +25,9 @@
 3.	系統要方便維護與增加功能
 
 
+### 功能分解圖
+![FDD](FDD.png "功能分解圖")
+
 ---
 ![Gantttable](Gantttable.jpg "甘特表")
 |甘特圖|
