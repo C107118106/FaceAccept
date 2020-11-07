@@ -74,10 +74,10 @@
 ![循序圖2](Sequence2.jpg "循序圖2")
 
 ### 活動圖 
-![活動圖2](Activity1.jpg "活動圖2")
+![活動圖2](Activity2.jpg "活動圖2")
 
 ### 循序圖
 ![循序圖3](Sequence3.jpg "循序圖3")
 
 ### 活動圖
-![活動圖3](Activity1.jpg "活動圖3")
+![活動圖3](Activity3.jpg "活動圖3")
