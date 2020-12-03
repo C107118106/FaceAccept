@@ -81,3 +81,13 @@
 
 ### 活動圖
 ![活動圖3](Activity3.jpg "活動圖3")
+
+### 分鏡板
+![開始](start.jpg "開始")
+![登入](login.jpg "登入")
+![說明](Description.jpg "說明")
+![遊戲](game.jpg "遊戲")
+![註冊](registered.jpg "註冊")
+
+### 實體關係圖
+![ERD](erd.jpg "EDR")
